@@ -13,7 +13,9 @@
  ReverseSearch first asks for the path of the dictionary and then asks for the number to search. It returns the word on that number, the time complexity of search is O(m), where m is then maximum length of any word in the dictionary.
  
  ## Android Dev Profile
+ All the files are present in the "android" folder.
  ### Problem 1
- For Android Development profile, a flutter project is in the android folder with the name "bobble_chat", All the flutter files are in the lib folder inside this folder. 
+ For Android Development profile, a flutter project is in the android folder with the name "bobble_chat". All the flutter files are in the lib folder inside this folder. 
+ The ap of the application is available in the "android" folder, with the name "bobble_chat.apk".
  ### Problem 2
  The second question is in the form of a text document name "question2.txt"
