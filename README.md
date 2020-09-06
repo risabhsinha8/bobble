@@ -9,4 +9,4 @@
  FindTheWord first asks for the path of the dictionary and then asks for the word to search. It returns the value assosiated with the word or NO if the word is not in the Dictionary.
  ReverseSearch first asks for the path of the dictionary and then asks for the number to search. It returns the word on that number, the time complexity of search is O(m), where m is then maximum length of any word in the dictionary.
  
- For Android Development profile, a flutter project is in the android folder with the name "bobble_chat". The second question is in the form of a text document name "question2.txt"
+ For Android Development profile, a flutter project is in the android folder with the name "bobble_chat", All the flutter files are in the lib folder inside this folder. The second question is in the form of a text document name "question2.txt"
