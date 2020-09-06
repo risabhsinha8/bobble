@@ -1,0 +1,2 @@
+What seems to be wrong is that the input and output from the array list is being taken concurrently.
+To resolve this error, the person should use a data structure which allows such operations instead of arraylist.
